@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<< HEAD
 
 - Flask: Web framework
 - scikit-learn: Machine learning models
