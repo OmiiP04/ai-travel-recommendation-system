@@ -13,7 +13,6 @@
 ```bash
 pytest tests/
 ```
-
 ### Code Style
 
 Follow PEP 8 guidelines for Python code style.
