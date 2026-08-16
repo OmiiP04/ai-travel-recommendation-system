@@ -144,7 +144,8 @@ def get_coordinates(df):
     df = df.dropna(subset=["latitude", "longitude"])
 
     return df
-           
+
+
 st.markdown("---")
 st.subheader("🗺 Map View of Recommended Places")
 
