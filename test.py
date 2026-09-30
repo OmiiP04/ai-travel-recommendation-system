@@ -36,7 +36,7 @@ print(top_places[["name", "city", "final_score"]])
 
 # =========================
 # BUILD SIMILARITY MODEL
-# =========================
+# =========================  
 similarity_matrix = build_similarity(df)
 
 
