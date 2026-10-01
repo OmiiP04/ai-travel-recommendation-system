@@ -53,3 +53,4 @@ similar_places = get_similar_places(
 )
 
 print(similar_places)
+
