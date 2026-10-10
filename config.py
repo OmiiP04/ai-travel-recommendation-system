@@ -73,6 +73,3 @@ def get_config(env: str = None) -> Config:
     else:
         return DevelopmentConfig()
 
-
-
-
