@@ -52,6 +52,7 @@ class ProductionConfig(Config):
     DEBUG = False
 
 
+
 def get_config(env: str = None) -> Config:
     """
     Get configuration based on environment.
