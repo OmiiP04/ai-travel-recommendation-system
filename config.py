@@ -46,6 +46,8 @@ class TestingConfig(Config):
     DATABASE_URL = 'sqlite:///:memory:'
 
 
+
+
 class ProductionConfig(Config):
     """Production configuration."""
     
