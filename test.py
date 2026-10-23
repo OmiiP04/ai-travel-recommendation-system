@@ -24,6 +24,8 @@ df = calculate_score(
 )
 
 
+
+
 # =========================
 # TOP RECOMMENDED PLACES
 # =========================
