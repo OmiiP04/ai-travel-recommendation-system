@@ -5,8 +5,6 @@ from src.data_preprocessing import load_data, preprocess_data
 from src.scoring_model import calculate_score
 from src.recommender import recommend_places
 from src.similarity_model import build_similarity, get_similar_places
-
-
 # =========================
 # LOAD & PREPROCESS DATA
 # =========================
