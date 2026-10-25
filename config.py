@@ -70,3 +70,4 @@ def get_config(env: str = None) -> Config:
         return ProductionConfig()
     else:
         return DevelopmentConfig()
+
