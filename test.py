@@ -10,8 +10,6 @@ from src.similarity_model import build_similarity, get_similar_places
 # =========================
 df = load_data()
 df = preprocess_data(df)
-
-
 # =========================
 # PERSONALIZED SCORING
 # =========================
