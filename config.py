@@ -3,7 +3,6 @@ Configuration Module
 
 Central configuration file for the AI Travel Recommendation System.
 """
-
 import os
 from dotenv import load_dotenv
 
