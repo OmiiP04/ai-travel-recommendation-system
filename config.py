@@ -19,6 +19,7 @@ class Config:
     # Application settings
     APP_NAME = 'AI Travel Recommendation System'
     APP_VERSION = '1.0.0'
+
     
     # Data paths
     DATA_RAW_PATH = os.path.join(os.path.dirname(__file__), 'data', 'raw')
