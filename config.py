@@ -63,7 +63,6 @@ def get_config(env: str = None) -> Config:
     
     if env == 'testing':
         return TestingConfig()
-
     elif env == 'production':
         return ProductionConfig()
     else:
