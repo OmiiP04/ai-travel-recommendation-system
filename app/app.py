@@ -160,5 +160,3 @@ if not top_places.empty:
     )
 else:
     st.write("No places to display on map.")
-
-
